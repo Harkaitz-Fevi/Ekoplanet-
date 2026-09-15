@@ -15,10 +15,20 @@ Helburua trantsizio ekologikoa modu erraz eta praktikoan sustatzea da.
 ## 2. Lehiakideak eta Balio Ekarpena
 
 ### Lehiakide zuzenak
-* **Giki Zero**: Karbono-aztarna kalkulatzen du galdetegi erraz batzuen bidez, eta lorpenak zein gomendioak ematen ditu.
-* **Ecologi**: Karbono-isuriak gutxitzeko eta zuhaitzak landatzeko webgunea da, panel oso bisualekin eta intsigniekin.
-* **JouleBug**: Etxean energia aurrezteko aplikazioa da, eguneroko erronken eta dominen bidez motibatzen duena.
+* **[Giki Zero](https://zero.giki.earth/)**: Karbono-aztarna kalkulatzen du galdetegi erraz batzuen bidez, eta lorpenak zein gomendioak ematen ditu.
+* **[Ecologi](https://ecologi.com/)**: Karbono-isuriak gutxitzeko eta zuhaitzak landatzeko webgunea da, panel oso bisualekin eta intsigniekin.
+* **[JouleBug](https://joulebug.com/)**: Etxean energia aurrezteko aplikazioa da, eguneroko erronken eta dominen bidez motibatzen duena.
 
 ### Ondorioak: Ekoplanet plataformaren abantailak
 * **Denak leku bakarrean:** Beste webgune batzuek gauza bakarra egiten dute (adibidez, aztarna orokorra kalkulatu edo erronka puntualak jarri). Gure plataformak, berriz, bi gauzak batera egiten ditu aginte-panel (*dashboard*) bakar batean: karbono-aztarna kalkulatu eta etxeko energia-kontsumoa aztertu.
 * **Grafiko errazak eta joko-sistema:** Informazioa grafiko oso argiekin erakusten dugu. Gainera, lorpen-sistema bati esker, erabiltzaileak galdetegiak erantzun ditzake eta ohitura berdeak lortu ditzake modu oso erraz eta intuitiboan.
+
+## 3. Erabiltzaile Profila (User Profile)
+
+### Nori zuzenduta dago webgunea?
+Gure plataforma batez ere **gazteei eta heldu gazteei (18-35 urte)** zuzenduta dago, beren etxean bizi direnak edo pisua partekatzen dutenak. Pertsona hauek ingurumenarekin konprometituta daude eta teknologia egunero erabiltzen dute.
+
+### Zergatik profil hau?
+* **Teknologia eta gamifikazioa gogoko dituzte:** Errazago erabiltzen dituzte aplikazio interaktiboak, grafikoak eta sari-sistemak.
+* **Fakturak eta energia aurreztu nahi dituzte:** Etxean independenteak izaten hasten direnez, garrantzitsua da guretzat dirua eta energia nola aurreztu ikastea.
+* **Ingurumenarekiko kontzientzia dute:** Beren karbono-aztarna murriztu nahi dute, baina modu erraz, praktiko eta azkar batean egin nahi dute, testu luzeegiak irakurri gabe.
