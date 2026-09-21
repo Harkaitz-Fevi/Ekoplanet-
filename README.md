@@ -32,3 +32,21 @@ Gure plataforma batez ere **gazteei eta heldu gazteei (18-35 urte)** zuzenduta d
 * **Teknologia eta gamifikazioa gogoko dituzte:** Errazago erabiltzen dituzte aplikazio interaktiboak, grafikoak eta sari-sistemak.
 * **Fakturak eta energia aurreztu nahi dituzte:** Etxean independenteak izaten hasten direnez, garrantzitsua da guretzat dirua eta energia nola aurreztu ikastea.
 * **Ingurumenarekiko kontzientzia dute:** Beren karbono-aztarna murriztu nahi dute, baina modu erraz, praktiko eta azkar batean egin nahi dute, testu luzeegiak irakurri gabe.
+
+## 4. Croquis / Diseinua
+
+Plataformaren interfazearen egitura eta diseinu bisuala definitzeko, croquis desberdinak garatu dira, ordenagailuko eta mugikorreko bertsioetarako egokituta:
+
+### Ordenagailuko Bertsioa (Desktop)
+
+![Ekoplanet Ordenagailuko Croquis-a](./CroquisOrdenagailua.jpg)
+
+### Mugikorreko Bertsioa (Mobile)
+
+![Ekoplanet Mugikorreko Croquis-a](./CroquisMugikorra.jpg)
+
+## 5. Nabigazio Mapa
+
+Webgunearen barne-egitura eta orrien arteko konexioa hobeto ulertzeko, nabigazio-mapa garatu da. *Header* nagusiaren bidez erabiltzaileak atal nagusi guztietara (Galdetegia, Aginte-Panela, Lorpenak eta Menua) bideratu daiteke modu azkar eta intuitiboan.
+
+![Ekoplanet Nabigazio Mapa](./Nabigazio_mapa.jpg)
