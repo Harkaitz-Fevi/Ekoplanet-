@@ -50,3 +50,57 @@ Plataformaren interfazearen egitura eta diseinu bisuala definitzeko, croquis des
 Webgunearen barne-egitura eta orrien arteko konexioa hobeto ulertzeko, nabigazio-mapa garatu da. *Header* nagusiaren bidez erabiltzaileak atal nagusi guztietara (Galdetegia, Aginte-Panela, Lorpenak eta Menua) bideratu daiteke modu azkar eta intuitiboan.
 
 ![Ekoplanet Nabigazio Mapa](./Nabigazio_mapa.jpg)
+
+## 6. Estilo - Gida
+
+| Funtzioa | Kolorea | Hex | Erabilera |
+| :--- | :--- | :--- | :--- |
+| **Nagusia** | Baso Berdea | `#1E5631` | Botoi nagusiak (*[HASI ORAIN]*), logotipoa |
+| **Bigarren mailakoa** | Menta Berdea | `#2ECC71` | Gamifikazioa, intsigniak, aurrerapen-barrak |
+| **Azentua** | Ura Urdina | `#3498DB` | Kontsumo energetikoaren grafikoak |
+| **Nabarmendua** | Anbar Horia | `#F1C40F` | Aholkuak eta lorpen-oharrak |
+| **Atzeko planoa** | Gris Argia | `#F4F6F7` | Blokeko eta ataleko bereizleak |
+| **Testua** | Antrazita Grisa | `#2C3E50` | Tituluak eta testu nagusia |
+
+## 7. Tipografia
+
+Webguneak **Inter** edo **Roboto** tipografia sans-serif modernoak erabiliko ditu. Serif gabeko letra-tipo hauek garbiak, irakurgaitz errazak eta azkarrak dira mugikor zein ordenagailu pantailetan.
+
+| Erabilera | Tamaina | Ezaugarria |
+| :--- | :--- | :--- |
+| **Tituluak** | 24px - 32px | Modernoa eta nabarmendua |
+| **Testu Nagusia** | 14px - 16px | Irakurgarritasun handikoa pantailetan |
+| **Botoiak** | 14px - 16px | Argia eta ekintzara bideratua |
+
+## 8. Botoiak
+Ekoplanet webgunean hiru botoi mota nagusi erabiliko dira, erabiltzailearen ekintzak argi bideratzeko eta interfaze intuitiboa izateko:
+
+* **Botoi Nagusia:** Baso Berdea (`#1E5631`) atzeko planoarekin eta testu zuriarekin. Webguneko ekintza garrantzitsuenetarako erabiltzen da, hala nola galdetegia hasteko (*[HASI ORAIN]*) edo inprimakiak bidaltzeko (*[BIDALI]*).
+
+* **Bigarren Mailako Botoia:** Menta Berdea (`#2ECC71`). Aukera osagarrietarako erabiltzen da, hala nola atzera egiteko (*[AURREKOA]*), xehetasunak ikusteko (*[IKUSI GEHIAGO]*) edo bigarren mailako ekintzetarako.
+
+* **Gamifikazio eta Interakzio Botoia:** Anbar Horia (`#F1C40F`) edo Ura Urdina (`#3498DB`). Erronkak aktibatzeko (*[EGIN ERRONKA]*), aholkuak aplikatzeko (*[APLIKATU AHOLKUA]*) edo sariak ikusteko erabiltzen da.
+
+## 9. Irudiak
+
+Ekoplanet webgunean erabiliko diren irudi nagusiak eta ikonoak honako hauek dira:
+
+* **Argazki Nagusia:**
+  * **Tamaina:** Handia (1920 x 1080px / 1080 x 1080px).
+  * **Non jarri:** Hasierako orriaren goiko aldean.
+  * **Nolakoa:** Ingurumenarekin lotutako irudi edo marrazki garbia eta erakargarria.
+
+* **Ikonoak:**
+  * **Tamaina:** Txikia (64 x 64px).
+  * **Non jarri:** Tituluen ondoan edo txartelen barruan (adibidez: argindarra, ura edo CO2-a adierazteko).
+  * **Nolakoa:** Marrazki sinpleak eta erraz ulertzeko modukoak.
+
+* **Sariak eta Dominak:**
+  * **Tamaina:** Ertaina (256 x 256px).
+  * **Non jarri:** Lorpenen atalean.
+  * **Nolakoa:** Erronkak gainditzean lortzen diren domina koloretsuak.
+
+* **Aholkuen Argazkiak:**
+  * **Tamaina:** Ertaina (600 x 400px).
+  * **Non jarri:** Aholku bakoitzaren goiko aldean.
+  * **Nolakoa:** Etxean energia aurrezteko adibideak erakusten dituzten argazki laburrak.
