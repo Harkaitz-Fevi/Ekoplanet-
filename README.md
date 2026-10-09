@@ -12,7 +12,7 @@ Zure etxeko kontsumoa jakiteko webgunea.
    4.1. [Ordenagailuko Bertsioa (Desktop)](#41-ordenagailuko-bertsioa-desktop)
    4.2. [Mugikorreko Bertsioa (Mobile)](#42-mugikorreko-bertsioa-mobile)
 5. [Nabigazio Mapa](#5-nabigazio-mapa)
-6. [Estilo - Gida](#6-estilo---gida)
+6. [Estilo - Gida](#6-estilo---gida) <br>
    6.1. [Koloreak](#61-koloreak) <br>
    6.2. [Tipografia](#62-tipografia) <br>
    6.3. [Botoiak](#63-botoiak) <br>
