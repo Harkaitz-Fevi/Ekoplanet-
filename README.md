@@ -8,9 +8,9 @@ Zure etxeko kontsumoa jakiteko webgunea.
 1. [Sarrera](#1-sarrera)
 2. [Lehiakideak eta Balio Ekarpena](#2-lehiakideak-eta-balio-ekarpena)
 3. [Erabiltzaile Profila (User Profile)](#3-erabiltzaile-profila-user-profile)
-4. [Krokisa / Diseinua](#4-krokisa--diseinua)
-   4.1. [Ordenagailuko Bertsioa (Desktop)](#41-ordenagailuko-bertsioa-desktop)
-   4.2. [Mugikorreko Bertsioa (Mobile)](#42-mugikorreko-bertsioa-mobile)
+4. [Krokisa / Diseinua](#4-krokisa--diseinua) <br>
+   4.1. [Ordenagailuko Bertsioa (Desktop)](#41-ordenagailuko-bertsioa-desktop) <br>
+   4.2. [Mugikorreko Bertsioa (Mobile)](#42-mugikorreko-bertsioa-mobile) <br>
 5. [Nabigazio Mapa](#5-nabigazio-mapa)
 6. [Estilo - Gida](#6-estilo---gida) <br>
    6.1. [Koloreak](#61-koloreak) <br>
