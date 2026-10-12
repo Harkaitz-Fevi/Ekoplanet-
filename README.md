@@ -74,7 +74,7 @@ Plataformaren interfazearen egitura eta diseinu bisuala definitzeko, croquis des
 
 Webgunearen barne-egitura eta orrien arteko konexioa hobeto ulertzeko, nabigazio-mapa garatu da. *Header* nagusiaren bidez erabiltzaileak atal nagusi guztietara (Galdetegia, Aginte-Panela, Lorpenak eta Menua) bideratu daiteke modu azkar eta intuitiboan.
 
-![Ekoplanet Nabigazio Mapa](./Nabigazio_mapa.jpg)
+![Ekoplanet Nabigazio Mapa](./Nabigazio_mapa.jpeg)
 
 ## 6. Estilo - Gida
 
