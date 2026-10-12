@@ -147,7 +147,7 @@ Proiektuaren azken diseinua (fidelitate altuko prototipoa) erabiltzailearen espe
 * **Aginte-panela (Dashboard):** Erabiltzaileari bere karbono-aztarnaren eta energia-kontsumoaren egoera erakusten dio modu grafiko eta argian. Asteko kontsumoaren bilakaera erakusten duten barra-grafikoak biltzen ditu, baita eguneroko aholku pertsonalizatuak ere.
 * **Lorpenak eta Gamifikazioa:** Erabiltzaileak ohitura jasangarriak har ditzan motibatzeko atala da. Bertan, gainditutako erronkengatik lortutako dominak eta aurrerapen-barrak ikus daitezke.
 
-[Prototipoa]([https://www.ejemplo.com](https://www.figma.com/make/0r0v6FhKgpSMp9HuU2GIn7/Ekoplanet-Prototipoa?code-node-id=0-6&p=f&t=FQo29dlsPhn0ZKn6-0&fullscreen=1))
+[Prototipoa](https://www.figma.com/make/0r0v6FhKgpSMp9HuU2GIn7/Ekoplanet-Prototipoa?code-node-id=0-6&p=f&t=FQo29dlsPhn0ZKn6-0&fullscreen=1)
 <br>
 
 ## 8. Edukien Lizentzia
